@@ -1,0 +1,4 @@
+
+AI => AGI(artificial general intelligence), ASI(artificial super intelligence)
+ML 2 types ==> supervised and unsupervised.
+deep learning is ANNs (artificial neural networks)
